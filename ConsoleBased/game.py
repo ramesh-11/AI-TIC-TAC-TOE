@@ -1,7 +1,7 @@
 import math
 import time
 
-from player import HumanPlayer, RandomComputerPlayer
+from player import *
 
 class TicTacToe():
     def __init__(self):
